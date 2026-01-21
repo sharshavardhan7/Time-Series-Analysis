@@ -1,5 +1,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.10-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=jupyter)
+
 
 
 
