@@ -1,3 +1,9 @@
+
+![Python](https://img.shields.io/badge/python-3.10-blue)
+
+
+
+
 Data Set Link :https://www.kaggle.com/datasets/abdullahmeo/e-commerce-sales-analysis-junior-analyst/data
 
 📌 Project Overview
